@@ -1,2 +1,1 @@
-# algorithm_python
-# pythoon_algorithm
+Exercise Algorithm using python and github
